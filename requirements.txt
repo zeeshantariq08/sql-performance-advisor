@@ -1,0 +1,4 @@
+sqlglot
+fastapi
+uvicorn
+pydantic
